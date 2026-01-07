@@ -65,6 +65,4 @@ Supported data-driven decision-making through visual insights
 
 
 
-Operations Analyst
 
-📁 Repository Contents
