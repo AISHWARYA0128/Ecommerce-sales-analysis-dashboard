@@ -1,4 +1,4 @@
- Ecommerce-sales-analysis-dashboard
+# Ecommerce-sales-analysis-dashboard
 This repository contains an Excel-based Data Analytics project focused on analyzing E-commerce sales data to uncover actionable business insights. 
 
 🎯 Key Objectives
