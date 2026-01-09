@@ -39,6 +39,11 @@ Profit Breakdown (Waterfall Chart)
 
 Region-wise Sales Map
 
+## 📸 Dashboard Screenshots
+
+🔹 ecommerce_sales_dashboard_overview.png 
+  <img width="602" height="292" alt="eccomerce sales analysis dashboard overview" src="https://github.com/user-attachments/assets/94533e4a-c3eb-4d5e-90d1-dbfa0f2c8261" />
+
 🛠 Tools & Skills Used
 
 Microsoft Excel
